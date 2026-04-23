@@ -11,7 +11,7 @@ A streamlined, UI-focused task management application built with **React** and *
 ## Tech Stack
 *   **Frontend:** React
 *   **Build Tool:** Vite
-*   **Styling:** [Add your CSS tool here, e.g., Tailwind CSS]
+*   **Styling:** Tailwind CSS
 
 ## Project Focus
 This version of the application is a **frontend-first implementation**. Authentication has been intentionally omitted to focus on UI fluidity, component architecture, and UX patterns.
